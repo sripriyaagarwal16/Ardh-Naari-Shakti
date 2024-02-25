@@ -6,13 +6,17 @@
 Empowering and supporting the transgender community through technology and community-driven initiatives.
 
 1.Supportive Chatbot: Confidential platform offering guidance and clarity for individuals questioning their gender identity.
+
 2.Job Opportunities Hub: Connecting transgender individuals with employment opportunities, fostering economic independence.
+
 3.Safe Spaces Locator: Providing information on safe spaces and communities for those facing rejection or discrimination.
+
 4.Blogs feature: Sharing experiences builds community and insight maintaining a supportive, respectful space with content moderation.
 
 Website Link: https://ardhnaarishaktitaara.netlify.app
 
 Frontend Github link: https://github.com/sripriyaagarwal16/WIEgnite_Taara_Frontend
+
 Backend Github link:  https://github.com/sripriyaagarwal16/WIEgnite_Taara_Backend
 
 #How to use our product?
