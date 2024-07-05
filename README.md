@@ -21,5 +21,4 @@ Website Link: https://ardhnaarishaktitaara.netlify.app
 3. After completing this procedure you can use all the features that is in the website
 
 #DEMO Video
-
-[Watch the demo video](Prototype/ArdhNaariShakti.png)(https://youtu.be/wXBwyKOVksM?si=I9qDjhIc2T1r8RQ0)
+[![Watch the video](Prototype/ArdhNaariShakti.png)](https://youtu.be/wXBwyKOVksM?si=I9qDjhIc2T1r8RQ0)
