@@ -1,5 +1,5 @@
 # Ardh-Naari-Shakti
-![Website Prototype](Prototype/4.png)Prototype/4.png
+![Website Prototype](Prototype/4.png)
 *Problem Statement*: Transgender individuals encounter societal hurdles, from discrimination to familial rejection, often leading to confusion upon realizing their true identity. This confusion affects their access to employment and housing, emphasizing the importance of supportive environments and understanding for their well-being.It solves the sustainability goal : Peace,Justice and institutions
 
 *Our Solution*:
