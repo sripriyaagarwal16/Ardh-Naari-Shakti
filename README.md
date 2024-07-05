@@ -19,4 +19,7 @@ Website Link: https://ardhnaarishaktitaara.netlify.app
 1. Kindly navigate to our website through the link provided above.
 2. Then for using it ,kindly register on the website and then login
 3. After completing this procedure you can use all the features that is in the website
-   
+
+#DEMO Video
+
+[Watch the demo video](https://youtu.be/wXBwyKOVksM?si=I9qDjhIc2T1r8RQ0)
