@@ -15,10 +15,6 @@ Empowering and supporting the transgender community through technology and commu
 
 Website Link: https://ardhnaarishaktitaara.netlify.app
 
-Frontend Github link: https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend
-
-Backend Github link:  https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Backend
-
 #How to use our product?
 1. Kindly navigate to our website through the link provided above.
 2. Then for using it ,kindly register on the website and then login
