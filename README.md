@@ -22,4 +22,4 @@ Website Link: https://ardhnaarishaktitaara.netlify.app
 
 #DEMO Video
 
-[Watch the demo video](Prototype/video-thumbnail.png)(https://youtu.be/wXBwyKOVksM?si=I9qDjhIc2T1r8RQ0)
+[Watch the demo video](Prototype/Ardh Naari Shakti.png)(https://youtu.be/wXBwyKOVksM?si=I9qDjhIc2T1r8RQ0)
