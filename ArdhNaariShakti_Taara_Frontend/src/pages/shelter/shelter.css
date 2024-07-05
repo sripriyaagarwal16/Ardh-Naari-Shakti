@@ -1,0 +1,29 @@
+.table-container {
+  overflow-x: auto;
+}
+.shelter-table {
+  border-collapse: collapse;
+}
+
+.shelter-table th, .shelter-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.shelter-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.shelter-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.shelter-table tr:hover {
+  background-color: #6d9bfd;
+}
+.shelter-table a{
+  color: darkblue;
+  text-decoration: underline;
+  font-weight: 600;
+}
